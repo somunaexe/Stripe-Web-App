@@ -4197,11 +4197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe Web App\\StripeWebApp\\StripeWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe-Web-App\\StripeWebApp.csproj",
       "projectName": "StripeWebApp",
-      "projectPath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe Web App\\StripeWebApp\\StripeWebApp.csproj",
+      "projectPath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe-Web-App\\StripeWebApp.csproj",
       "packagesPath": "C:\\Users\\somun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe Web App\\StripeWebApp\\obj\\",
+      "outputPath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe-Web-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\somun\\AppData\\Roaming\\NuGet\\NuGet.Config"

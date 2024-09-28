@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccSsiQ+kL7S15y3HR3JE6vcSSjvcfxMCsuXEtuMxiTqve5HGI+HZZ9kKS+FfcW0OEKwkUZT8KGc4+wl5mobEog==",
+  "dgSpecHash": "YjnEv/k3qD3/dN1kL7mvxuu0QjGafuJRf6xhhyi9aX8tCb9yS0a0+7LPVKVhKqabKoOgifihX6tYzFOdzuRK6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe Web App\\StripeWebApp\\StripeWebApp.csproj",
+  "projectFilePath": "C:\\Users\\somun\\OneDrive\\Documents\\Stripe-Web-App\\StripeWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\somun\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\somun\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
